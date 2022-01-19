@@ -47,7 +47,7 @@ public class MenuManager : MonoBehaviour
 #if UNITY_EDITOR
         EditorApplication.ExitPlaymode();
 #else
-        Application.Exit();
+        Application.Quit();
 #endif
 
     }
