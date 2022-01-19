@@ -5,7 +5,11 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ww]eb[Gg][Ll] [Bb]uilds/
 Assets/AssetStoreTools*
+
+webgl_sharing
+connectwebgl.zip
 
 # Visual Studio cache directory
 .vs/
